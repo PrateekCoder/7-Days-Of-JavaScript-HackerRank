@@ -1,3 +1,6 @@
+//TASK
+//Write a function that prints Hello World! in the console below.
+
 function processData(input) {
     //Enter your code here
     var my_string = "Hello World!";
