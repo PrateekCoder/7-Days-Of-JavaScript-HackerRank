@@ -30,3 +30,9 @@ will have a mix of challenges where we can test what we learned.
 15. Let(ES6)
 16. Const(ES6)
 17. For...Of(ES6)
+
+###Day 6
+18. Mark And His Toys(Challenge)
+19. The Utopian Tree(Challenge)
+20. The Connected Cell in a Grid(Challenge)
+21. Love Letter Mystry(Challenge)
